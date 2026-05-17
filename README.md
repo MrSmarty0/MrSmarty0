@@ -8,85 +8,60 @@
   />
 </p>
 
----
+
 
 <!-- ===================================================== -->
-<!--            🎭 ANIMATED IDENTITY HEADER 🎭            -->
+<!--                  🌌 ANIMATED BANNER                  -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="420"
+    alt="Coding Animation"
+  />
+</p>
+
+<!-- ===================================================== -->
+<!--                 ✨ TYPING ANIMATION ✨                -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&height=80&lines=Passionate+Developer;Building+Modern+Desktop+Projects;Focused+on+Performance+%26+Clean+UI;Learning+Something+New+Everyday;Turning+Ideas+Into+Reality;Code+•+Build+•+Improve+•+Repeat"
+  />
+</p>
+
+<!-- ===================================================== -->
+<!--                   🔥 PREMIUM BADGES 🔥                -->
 <!-- ===================================================== -->
 
 <p align="center">
 
-  <!-- CODE -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="32"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-111827?style=for-the-badge"/>
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=1000&lines=PASSIONATE+DEVELOPER"
-  />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code%20%26%20Visual%20Studio-0ea5e9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-  <!-- FIRE -->
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="32"/>
+  <img src="https://img.shields.io/badge/System-Windows-2563eb?style=for-the-badge&logo=windows&logoColor=white"/>
 
-  <br/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-059669?style=for-the-badge"/>
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=BUILDING+MODERN+SYSTEMS+AND+TOOLS"
-  />
-
-  <br/>
-
-  <!-- THINK -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1100&color=FF0000&center=true&vCenter=true&width=1000&lines=CODE+•+BUILD+•+BREAK+•+IMPROVE"
-  />
-
-  <br/>
-
-  <!-- BRAIN -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="32"/>
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=ALWAYS+LEARNING+NEW+TECHNOLOGIES"
-  />
+  <img src="https://img.shields.io/badge/Code-C%2B%2B%20%7C%20C%23%20%7C%20JS-9333ea?style=for-the-badge"/>
 
 </p>
 
----
-
 <!-- ===================================================== -->
-<!--                  🌌 CODING BANNER                   -->
+<!--                    👀 PROFILE VIEWS                   -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
+  <img 
+    src="https://komarev.com/ghpvc/?username=MrSmarty0&label=Profile+Views&color=38BDF8&style=for-the-badge"
+  />
 
----
-
-<!-- ===================================================== -->
-<!--                 🔥 STATUS BADGES 🔥                  -->
-<!-- ===================================================== -->
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Status-ONLINE-00ff99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mode-FOCUSED-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Build-3AM%20ENERGY-ff003c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Theme-DARK%20CYBER-00e5ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lang-C%2B%2B%20%7C%20C%23%20%7C%20JS-9333ea?style=for-the-badge"/>
-
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--                    👀 PROFILE VIEWS                 -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrSmarty0&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/MrSmarty0?label=Followers&style=for-the-badge&color=111827"/>
+  <img 
+    src="https://img.shields.io/github/followers/MrSmarty0?label=Followers&style=for-the-badge&color=111827"
+  />
 </p>
 
 ---
@@ -94,17 +69,16 @@
 # 💫 About Me
 
 ```cpp
-class Developer
+class MrSmarty0
 {
 public:
 
-    string name      = "MrSmarty0";
-    string role      = "Software Developer";
-    string mindset   = "Build • Break • Improve • Repeat";
-    string os        = "Windows";
-    string editor    = "VS Code & Visual Studio";
-    string focus     = "Performance + Modern UI";
-    string status    = "Always building something new";
+    string role        = "Developer";
+    string editor      = "VS Code & Visual Studio";
+    string os          = "Windows";
+    string focus       = "Performance & Modern UI";
+    string learning    = "Advanced Development";
+    string status      = "Always building something";
 
     vector<string> languages =
     {
@@ -114,4 +88,13 @@ public:
         "HTML",
         "CSS"
     };
+
+    vector<string> mindset =
+    {
+        "Build",
+        "Learn",
+        "Improve",
+        "Repeat"
+    };
+
 };
