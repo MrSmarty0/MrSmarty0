@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">⚡ Vibing Alone Coding ⚡</h1>
 
-<!--
-**MrSmarty0/MrSmarty0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Vibing+alone+coding+hits+different;3AM+debugging+life+and+code;Fix+one+bug,+five+more+appear;Dark+theme+is+my+therapy;Building+things+that+break+less+than+me" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrSmarty0&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+```js
+const dev = {
+  username: "MrSmarty0",
+  alias: "night-debugger",
+  mood: "vibing alone 😶‍🌫️",
+  setup: {
+    theme: "dark mode supremacy 🌑",
+    gear: "headphones always on 🎧",
+    environment: "chaos → code → calm"
+  },
+  focus: ["build", "break", "fix", "repeat 🔁"],
+  currently: "compiling emotions... 🧠",
+  funFact: "bugs fear my 3AM energy"
+};
