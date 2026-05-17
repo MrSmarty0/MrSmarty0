@@ -9,6 +9,36 @@
 </p>
 
 <!-- ===================================================== -->
+<!--            🌊 RED / WHITE WAVE TITLE SYSTEM 🌊        -->
+<!-- ===================================================== -->
+
+<p align="center">
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=1000&lines=⚡+PASSIONATE+DEVELOPER+⚡"
+  />
+
+  <br/>
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=BUILDING+MODERN+SYSTEMS+AND+TOOLS"
+  />
+
+  <br/>
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1100&color=FF0000&center=true&vCenter=true&width=1000&lines=CODE+•+BUILD+•+BREAK+•+IMPROVE"
+  />
+
+  <br/>
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=ALWAYS+LEARNING+NEW+TECHNOLOGIES"
+  />
+
+</p>
+
+<!-- ===================================================== -->
 <!--                  🌌 ANIMATED BANNER                  -->
 <!-- ===================================================== -->
 
