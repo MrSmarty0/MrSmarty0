@@ -1,41 +1,42 @@
-<!-- 🌌 ANIMATED HEADER -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:111827,100:020617&text=MrSmarty0&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Building%20Projects%20%7C%20Learning%20%7C%20Creating&descAlignY=58&descSize=18" />
 </p>
 
-<h1 align="center">⚡ Vibing Alone Coding ⚡</h1>
+<!-- ===================================================== -->
+<!--                    INTRO SECTION                      -->
+<!-- ===================================================== -->
 
-<!-- ✨ TYPING ANIMATION -->
+<h1 align="center">Hi 👋, I'm MrSmarty0</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=900&height=80&lines=Vibing+alone+coding+hits+different;3AM+debugging+life+and+code;Fix+one+bug+→+five+more+appear;Dark+theme+is+my+therapy;Building+silent+but+dangerous+projects;Compiling+emotions+...+🧠" />
+  Passionate developer focused on creating efficient, modern, and performance-oriented projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrSmarty0">
+    <img src="https://img.shields.io/github/followers/MrSmarty0?label=Followers&style=for-the-badge&color=0ea5e9"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=MrSmarty0&style=for-the-badge&color=0ea5e9"/>
+  
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-111827?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- 🔥 STATUS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Deep%20Focus-8B00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mood-Vibing%20Solo-00FFAA?style=for-the-badge&logo=spotify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Setup-Dark%20Mode%20%2B%20Headphones-FF00AA?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Time-3AM%20Energy-FFAA00?style=for-the-badge&logo=clockify&logoColor=white"/>
-</p>
+# 💫 About Me
 
----
+```cpp
+class MrSmarty0
+{
+public:
 
-## 🚀 About Me
+    string role        = "Developer";
+    string mindset     = "Build • Learn • Improve";
+    string editor      = "Visual Studio Code";
+    string os          = "Windows";
+    string focus       = "Performance & Modern UI";
+    string status      = "Always learning something new";
 
-```js
-const dev = {
-  username: "MrSmarty0",
-  alias: "silent builder ⚡",
-  mindset: ["build", "break", "fix", "repeat"],
-  mood: "vibing alone 😶‍🌫️",
-  setup: {
-    editor: "VS Code",
-    theme: "dark mode supremacy 🌑",
-    audio: "lofi / silence / overthinking"
-  },
-  status: "compiling emotions...",
-  level: "3AM debug warrior",
-  superpower: "bugs appear after deployment 💀"
 };
