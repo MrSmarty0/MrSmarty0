@@ -156,21 +156,25 @@
 <!--              🎵 WORKING MUSIC SECTION                 -->
 <!-- ===================================================== -->
 
-## 🎵 What I'm Listening To
+## 🎵 Currently Vibing To
 
 <p align="center">
-  <a href="https://open.spotify.com/user/314po24u7bi7epa2n4dcexj7mhki">
-    <img src="https://img.shields.io/badge/Follow%20me%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
-
-<p align="center">
+  <!-- Reliable Spotify Profile Widget -->
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=314po24u7bi7epa2n4dcexj7mhki&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&bar_color=38BDF8" width="60%" />
 </p>
 
-<!-- Fallback text that always shows -->
 <p align="center">
-  🎧 <em>"Code, create, and vibe to good music"</em>
+  <!-- Always-working follow button -->
+  <a href="https://open.spotify.com/user/314po24u7bi7epa2n4dcexj7mhki">
+    <img src="https://img.shields.io/badge/🎧%20Listen%20Together%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+<!-- Optional: Animated music note decoration -->
+<p align="center">
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/3oz8xRF0v9WMAUVLNK/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rG/giphy.gif" width="50" />
 </p>
 
 <!-- ===================================================== -->
