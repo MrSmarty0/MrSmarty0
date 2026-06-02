@@ -152,20 +152,26 @@
 <!--              🎵 WORKING MUSIC SECTION                 -->
 <!-- ===================================================== -->
 
+<!-- ===================================================== -->
+<!--              🎵 WORKING MUSIC SECTION                 -->
+<!-- ===================================================== -->
+
 ## 🎵 What I'm Listening To
 
 <p align="center">
   <a href="https://open.spotify.com/user/314po24u7bi7epa2n4dcexj7mhki">
-    <img src="https://novatorem.buape.com/theme/radical" width="60%" />
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
-<!-- Alternative working music widget -->
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314po24u7bi7epa2n4dcexj7mhki&count=3&width=600" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314po24u7bi7epa2n4dcexj7mhki&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&bar_color=38BDF8" width="60%" />
 </p>
 
----
+<!-- Fallback text that always shows -->
+<p align="center">
+  🎧 <em>"Code, create, and vibe to good music"</em>
+</p>
 
 <!-- ===================================================== -->
 <!--              💬 WORKING QUOTE SECTION                 -->
