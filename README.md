@@ -82,20 +82,33 @@
 <!-- ===================================================== -->
 <!--              📊 ANIMATED STATS SECTION                -->
 <!-- ===================================================== -->
-
 ## GitHub Analytics
 
+<!-- Main Stats - Using working API -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true&ring_color=38BDF8&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSmarty0&theme=radical&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
+  
+  <!-- Streak Stats - Alternative working endpoint -->
+  <img src="https://streak-stats.demolab.com/?user=MrSmarty0&theme=radical&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=38BDF8" width="48%" />
+</p>
+
+<!-- Top Languages - Working directly -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSmarty0&layout=compact&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true&langs_count=6&cache_seconds=1800" width="48%" />
+  
+  <!-- Profile Summary Card - Reliable replacement for stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSmarty0&theme=radical" width="48%" />
+</p>
+
+<!-- Detailed Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSmarty0&theme=radical" width="95%" />
 </p>
 
 <p align="center">
-  <!-- Working Top Languages Card -->
-  <img src="https://github-readme-stats-alpha-seven-44.vercel.app/api/top-langs/?username=MrSmarty0&layout=compact&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true&langs_count=8" width="48%" />
-  
-  <!-- Working Stats Card -->
-  <img src="https://github-readme-stats-alpha-seven-44.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSmarty0&theme=radical" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrSmarty0&theme=radical" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrSmarty0&theme=radical&utcOffset=8" width="31%" />
 </p>
 
 
