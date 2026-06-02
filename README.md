@@ -143,19 +143,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrSmarty0&theme=radical&no-frame=false&row=3&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--              📊 WORKING METRICS (ALTERNATIVE)         -->
-<!-- ===================================================== -->
-
-## 📊 Weekly Development Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrSmarty0&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true&layout=compact" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSmarty0&theme=radical" width="95%" />
 </p>
 
 ---
@@ -167,14 +155,14 @@
 ## 🎵 What I'm Listening To
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31tez5vzp2fjwfbvlzlclt7qdwem">
+  <a href="https://open.spotify.com/user/5f37a34e1802421c9e006e3b8b7a9f30">
     <img src="https://novatorem.buape.com/theme/radical" width="60%" />
   </a>
 </p>
 
 <!-- Alternative working music widget -->
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tez5vzp2fjwfbvlzlclt7qdwem&count=3&width=600" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=5f37a34e1802421c9e006e3b8b7a9f30&count=3&width=600" />
 </p>
 
 ---
@@ -201,25 +189,6 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117&qColor=38BDF8&aColor=38BDF8" alt="Jokes Card" />
 </p>
 
----
-
-<!-- ===================================================== -->
-<!--              🌟 WORKING FEATURED PROJECTS             -->
-<!-- ===================================================== -->
-
-## 🚀 Featured Projects
-
-<!-- Replace 'repo1' and 'repo2' with your actual repository names -->
-<p align="center">
-  <a href="https://github.com/MrSmarty0/MrSmarty0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrSmarty0&repo=MrSmarty0&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" />
-  </a>
-  <a href="https://github.com/MrSmarty0/MrSmarty0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrSmarty0&repo=your-second-repo&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" />
-  </a>
-</p>
-
----
 
 <!-- ===================================================== -->
 <!--              🔥 RECENT ACTIVITY (WORKING)             -->
@@ -247,20 +216,8 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://twitter.com/MrSmarty0">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/MrSmarty0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://discord.gg/MrSmarty0">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@MrSmarty0">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:mrsmarty0@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
