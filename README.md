@@ -91,21 +91,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSmarty0&layout=compact&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true&langs_count=8" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MrSmarty0&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="48%" />
+  <!-- Working Top Languages Card -->
+  <img src="https://github-readme-stats-alpha-seven-44.vercel.app/api/top-langs/?username=MrSmarty0&layout=compact&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true&langs_count=8" width="48%" />
+  
+  <!-- Working Stats Card -->
+  <img src="https://github-readme-stats-alpha-seven-44.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true&count_private=true" width="48%" />
 </p>
-
-
-<!-- ===================================================== -->
-<!--              🎨 ANIMATED ACTIVITY GRAPH               -->
-<!-- ===================================================== -->
-
-## Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSmarty0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=38BDF8&line=38BDF8&point=38BDF8&custom_title=✨%20My%20Coding%20Journey%20✨&radius=10" width="95%" />
-</p>
-
 
 
 <!-- ===================================================== -->
@@ -116,40 +107,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSmarty0&theme=radical" width="95%" />
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--              🎵 WORKING MUSIC SECTION                 -->
-<!-- ===================================================== -->
-
-<!-- ===================================================== -->
-<!--              🎵 WORKING MUSIC SECTION                 -->
-<!-- ===================================================== -->
-
-## Coding Soundtrack
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=🎧+Code+to+the+rhythm;🎸+Music+fuels+the+code;🚀+Building+with+beats" />
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/314po24u7bi7epa2n4dcexj7mhki">
-    <img src="https://img.shields.io/badge/🎤%20Follow%20Me%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <strong>🎵 Favorite Artists:</strong> Udit Narayan • Arjit Singh
-</p>
-
-<p align="center">
-  <strong>🎸 Coding Genres:</strong> Electronic • Lo-Fi • Synthwave • Classical
 </p>
 
 <!-- ===================================================== -->
