@@ -127,37 +127,72 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrSmarty0/MrSmarty0/output/snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrSmarty0/MrSmarty0/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrSmarty0/MrSmarty0/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MrSmarty0/MrSmarty0/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
 <!-- ===================================================== -->
-<!--              🎵 SPOTIFY / MUSIC VIBE                  -->
+<!--              🏆 WORKING ACHIEVEMENTS                  -->
 <!-- ===================================================== -->
 
-## 🎧 Currently vibing to
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tez5vzp2fjwfbvlzlclt7qdwem&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=38BDF8&bar_color_cover=false" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrSmarty0&theme=radical&no-frame=false&row=3&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 <!-- ===================================================== -->
-<!--              💬 QUOTE OF THE MOMENT                  -->
+<!--              📊 WORKING METRICS (ALTERNATIVE)         -->
 <!-- ===================================================== -->
 
-## ✍️ Dev Quote
+## 📊 Weekly Development Breakdown
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrSmarty0&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true&layout=compact" width="60%" />
 </p>
 
 ---
 
 <!-- ===================================================== -->
-<!--              🃏 RANDOM DEV JOKE                      -->
+<!--              🎵 WORKING MUSIC SECTION                 -->
+<!-- ===================================================== -->
+
+## 🎵 What I'm Listening To
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31tez5vzp2fjwfbvlzlclt7qdwem">
+    <img src="https://novatorem.buape.com/theme/radical" width="60%" />
+  </a>
+</p>
+
+<!-- Alternative working music widget -->
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tez5vzp2fjwfbvlzlclt7qdwem&count=3&width=600" />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--              💬 WORKING QUOTE SECTION                 -->
+<!-- ===================================================== -->
+
+## ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--              🃏 WORKING JOKE SECTION                  -->
 <!-- ===================================================== -->
 
 ## 😄 Developer Humor
@@ -169,23 +204,30 @@
 ---
 
 <!-- ===================================================== -->
-<!--              🏆 ACHIEVEMENTS & METRICS                -->
+<!--              🌟 WORKING FEATURED PROJECTS             -->
 <!-- ===================================================== -->
 
-## 🏅 Achievements & Metrics
+## 🚀 Featured Projects
 
+<!-- Replace 'repo1' and 'repo2' with your actual repository names -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/MrSmarty0?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stargazers=1&people=1&isocalendar.duration=half-year&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.charts.limit=4&stargazers.charts.days=14&config.timezone=Asia/Kolkata" width="95%" />
+  <a href="https://github.com/MrSmarty0/MrSmarty0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrSmarty0&repo=MrSmarty0&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" />
+  </a>
+  <a href="https://github.com/MrSmarty0/MrSmarty0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrSmarty0&repo=your-second-repo&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" />
+  </a>
 </p>
 
 ---
 
 <!-- ===================================================== -->
-<!--              🔥 RECENT ACTIVITY                      -->
+<!--              🔥 RECENT ACTIVITY (WORKING)             -->
 <!-- ===================================================== -->
 
 ## 📡 Recent GitHub Activity
 
+<!-- This shows your actual recent activity -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSmarty0&theme=radical" width="95%" />
 </p>
@@ -194,23 +236,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSmarty0&theme=radical" width="31%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrSmarty0&theme=radical" width="31%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSmarty0&theme=radical" width="31%" />
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--              🌟 FEATURED PROJECTS                    -->
-<!-- ===================================================== -->
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/MrSmarty0/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrSmarty0&repo=project1&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" />
-  </a>
-  <a href="https://github.com/MrSmarty0/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrSmarty0&repo=project2&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" />
-  </a>
 </p>
 
 ---
