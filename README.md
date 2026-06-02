@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--                    🚀 MASTER README 🚀                 -->
+<!--                    ⚡ MASTER README ⚡                 -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <!-- ===================================================== -->
-<!--                  🌌 ANIMATED BANNER                    -->
+<!--                  🌌 ANIMATED BANNER                  -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <!-- ===================================================== -->
-<!--                 ✨ TYPING ANIMATION ✨                 -->
+<!--                 ✨ TYPING ANIMATION ✨                -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <!-- ===================================================== -->
-<!--                   🔥 PREMIUM BADGES 🔥                 -->
+<!--                   🔥 PREMIUM BADGES 🔥                -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <!-- ===================================================== -->
-<!--                    👀 PROFILE VIEWS                    -->
+<!--                    👀 PROFILE VIEWS                   -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -53,19 +53,75 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me - The Animated Code Version
 
 ```cpp
-class MrSmarty0
-{
-public:
-    string role        = "Developer";
-    string editor      = "VS Code & Visual Studio";
-    string os          = "Windows";
-    string focus       = "Performance & Modern UI";
-    string learning    = "Advanced Development";
-    string status      = "Always building something";
+#include <iostream>
+#include <string>
+#include <vector>
+#include <thread>
+#include <chrono>
 
-    vector<string> languages = { "C++", "C#", "JavaScript", "HTML", "CSS" };
-    vector<string> mindset   = { "Build", "Learn", "Improve", "Repeat" };
+class MrSmarty0 {
+private:
+    void animateText(const std::string& text, int delay_ms = 50) {
+        for (char c : text) {
+            std::cout << c << std::flush;
+            std::this_thread::sleep_for(std::chrono::milliseconds(delay_ms));
+        }
+        std::cout << std::endl;
+    }
+
+public:
+    std::string role = "Developer";
+    std::string editor = "VS Code & Visual Studio";
+    std::string os = "Windows";
+    std::string focus = "Performance & Modern UI";
+    std::string learning = "Advanced Development";
+    std::string status = "Always building something";
+
+    std::vector<std::string> languages = {
+        "⚡ C++", "🎨 C#", "🌐 JavaScript", "📄 HTML", "🎭 CSS"
+    };
+
+    std::vector<std::string> mindset = {
+        "🔨 Build", "📚 Learn", "🚀 Improve", "🔄 Repeat"
+    };
+
+    void animateIntro() {
+        std::cout << "\n✨ Initializing MrSmarty0 Class... ✨\n" << std::endl;
+        std::this_thread::sleep_for(std::chrono::milliseconds(800));
+        
+        animateText("┌─────────────────────────────────┐");
+        animateText("│      SYSTEM BOOTING...           │");
+        animateText("└─────────────────────────────────┘");
+        std::this_thread::sleep_for(std::chrono::milliseconds(500));
+        
+        std::cout << "\n📡 Loading Configuration:\n" << std::endl;
+        animateText("├─ Role: " + role);
+        animateText("├─ Editor: " + editor);
+        animateText("├─ OS: " + os);
+        animateText("├─ Focus: " + focus);
+        animateText("├─ Learning: " + learning);
+        animateText("└─ Status: " + status);
+        
+        std::cout << "\n💻 Language Stack:\n" << std::endl;
+        for (const auto& lang : languages) {
+            animateText("  • " + lang, 30);
+        }
+        
+        std::cout << "\n🧠 Mindset Loop:\n" << std::endl;
+        for (const auto& step : mindset) {
+            animateText("  → " + step, 40);
+            std::this_thread::sleep_for(std::chrono::milliseconds(300));
+        }
+        
+        std::cout << "\n🎯 System Ready! Let's Build Something Amazing!\n" << std::endl;
+    }
 };
+
+int main() {
+    MrSmarty0 dev;
+    dev.animateIntro();
+    return 0;
+}
