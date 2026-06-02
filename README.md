@@ -62,12 +62,6 @@
   <img 
     src="https://komarev.com/ghpvc/?username=MrSmarty0&label=✨%20Profile%20Views&color=38BDF8&style=for-the-badge&abbreviated=true"
   />
-  <img 
-    src="https://img.shields.io/github/followers/MrSmarty0?label=🌟%20Followers&style=for-the-badge&color=38BDF8"
-  />
-  <img 
-    src="https://img.shields.io/github/stars/MrSmarty0?label=⭐%20Total%20Stars&style=for-the-badge&color=38BDF8"
-  />
 </p>
 
 ---
@@ -173,7 +167,7 @@
 </p>
 
 <p align="center">
-  <strong>🎵 Favorite Artists:</strong> The Weeknd • Daft Punk • Kendrick Lamar • Hans Zimmer
+  <strong>🎵 Favorite Artists:</strong> Udit Narayan • Arjit Singh
 </p>
 
 <p align="center">
