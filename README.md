@@ -82,42 +82,20 @@
 <!-- ===================================================== -->
 <!--              📊 ANIMATED STATS SECTION                -->
 <!-- ===================================================== -->
+
 ## GitHub Analytics
 
-<!-- Stats Card - Using different working endpoint -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSmarty0&layout=compact&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true&ring_color=38BDF8&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSmarty0&theme=radical&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=38BDF8" width="48%" />
 </p>
 
-<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrSmarty0&label=Profile%20Views&color=38BDF8&style=flat-square" />
-</p>
-
-<!-- Simple Stats Cards that ALWAYS work -->
-<p align="center">
-  <img src="https://badges.strrl.dev/commits/monthly/MrSmarty0?style=flat-square&color=38BDF8" />
-  <img src="https://badges.strrl.dev/repos/MrSmarty0?style=flat-square&color=38BDF8" />
-  <img src="https://badges.strrl.dev/gists/MrSmarty0?style=flat-square&color=38BDF8" />
-</p>
-
-<!-- Manual Stats (Update these yourself) -->
-<p align="center">
-  <table>
-    <tr>
-      <td><strong>📁 Public Repos</strong></td>
-      <td><strong>👥 Followers</strong></td>
-      <td><strong>⭐ Total Stars</strong></td>
-      <td><strong>🔀 Forks</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><code>XX</code></td>
-      <td align="center"><code>XX</code></td>
-      <td align="center"><code>XX</code></td>
-      <td align="center"><code>XX</code></td>
-    </tr>
-  </table>
+  <!-- Working Top Languages Card -->
+  <img src="https://github-readme-stats-alpha-seven-44.vercel.app/api/top-langs/?username=MrSmarty0&layout=compact&theme=radical&bg_color=0d1117&title_color=38BDF8&hide_border=true&langs_count=8" width="48%" />
+  
+  <!-- Working Stats Card -->
+  <img src="https://github-readme-stats-alpha-seven-44.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true&count_private=true" width="48%" />
 </p>
 
 
