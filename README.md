@@ -68,20 +68,19 @@
 
 # 💫 About Me
 
-#include <string>
-#include <vector>
-
+```cpp
 class MrSmarty0
 {
 public:
-    std::string role        = "Developer";
-    std::string editor      = "VS Code & Visual Studio";
-    std::string os          = "Windows";
-    std::string focus       = "Performance & Modern UI";
-    std::string learning    = "Advanced Development";
-    std::string status      = "Always building something";
 
-    std::vector<std::string> languages =
+    string role        = "Developer";
+    string editor      = "VS Code & Visual Studio";
+    string os          = "Windows";
+    string focus       = "Performance & Modern UI";
+    string learning    = "Advanced Development";
+    string status      = "Always building something";
+
+    vector<string> languages =
     {
         "C++",
         "C#",
@@ -90,11 +89,12 @@ public:
         "CSS"
     };
 
-    std::vector<std::string> mindset =
+    vector<string> mindset =
     {
         "Build",
         "Learn",
         "Improve",
         "Repeat"
     };
+
 };
