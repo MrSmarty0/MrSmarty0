@@ -156,25 +156,28 @@
 <!--              🎵 WORKING MUSIC SECTION                 -->
 <!-- ===================================================== -->
 
-## 🎵 Currently Vibing To
+## 🎵 Coding Soundtrack
 
 <p align="center">
-  <!-- Reliable Spotify Profile Widget -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314po24u7bi7epa2n4dcexj7mhki&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&bar_color=38BDF8" width="60%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=🎧+Code+to+the+rhythm;🎸+Music+fuels+the+code;🚀+Building+with+beats" />
 </p>
 
 <p align="center">
-  <!-- Always-working follow button -->
   <a href="https://open.spotify.com/user/314po24u7bi7epa2n4dcexj7mhki">
-    <img src="https://img.shields.io/badge/🎧%20Listen%20Together%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎤%20Follow%20Me%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
-<!-- Optional: Animated music note decoration -->
 <p align="center">
-  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/3oz8xRF0v9WMAUVLNK/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rG/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <strong>🎵 Favorite Artists:</strong> The Weeknd • Daft Punk • Kendrick Lamar • Hans Zimmer
+</p>
+
+<p align="center">
+  <strong>🎸 Coding Genres:</strong> Electronic • Lo-Fi • Synthwave • Classical
 </p>
 
 <!-- ===================================================== -->
