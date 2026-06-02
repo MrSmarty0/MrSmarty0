@@ -155,14 +155,14 @@
 ## 🎵 What I'm Listening To
 
 <p align="center">
-  <a href="https://open.spotify.com/user/5f37a34e1802421c9e006e3b8b7a9f30">
+  <a href="https://open.spotify.com/user/314po24u7bi7epa2n4dcexj7mhki">
     <img src="https://novatorem.buape.com/theme/radical" width="60%" />
   </a>
 </p>
 
 <!-- Alternative working music widget -->
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=5f37a34e1802421c9e006e3b8b7a9f30&count=3&width=600" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314po24u7bi7epa2n4dcexj7mhki&count=3&width=600" />
 </p>
 
 ---
