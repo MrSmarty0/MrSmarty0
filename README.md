@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--                    ⚡ MASTER README ⚡                 -->
+<!--                    🚀 MASTER README 🚀                 -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -8,10 +8,8 @@
   />
 </p>
 
-
-
 <!-- ===================================================== -->
-<!--                  🌌 ANIMATED BANNER                  -->
+<!--                  🌌 ANIMATED BANNER                    -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -23,7 +21,7 @@
 </p>
 
 <!-- ===================================================== -->
-<!--                 ✨ TYPING ANIMATION ✨                -->
+<!--                 ✨ TYPING ANIMATION ✨                 -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -33,46 +31,34 @@
 </p>
 
 <!-- ===================================================== -->
-<!--                   🔥 PREMIUM BADGES 🔥                -->
+<!--                   🔥 PREMIUM BADGES 🔥                 -->
 <!-- ===================================================== -->
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/Focus-Software%20Development-111827?style=for-the-badge"/>
-
   <img src="https://img.shields.io/badge/Editor-VS%20Code%20%26%20Visual%20Studio-0ea5e9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/System-Windows-2563eb?style=for-the-badge&logo=windows&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Status-Always%20Learning-059669?style=for-the-badge"/>
-
   <img src="https://img.shields.io/badge/Code-C%2B%2B%20%7C%20C%23%20%7C%20JS-9333ea?style=for-the-badge"/>
-
 </p>
 
 <!-- ===================================================== -->
-<!--                    👀 PROFILE VIEWS                   -->
+<!--                    👀 PROFILE VIEWS                    -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=MrSmarty0&label=Profile+Views&color=38BDF8&style=for-the-badge"
-  />
-
-  <img 
-    src="https://img.shields.io/github/followers/MrSmarty0?label=Followers&style=for-the-badge&color=111827"
-  />
+  <img src="https://komarev.com/ghpvc/?username=MrSmarty0&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/MrSmarty0?label=Followers&style=for-the-badge&color=111827"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 ```cpp
 class MrSmarty0
 {
 public:
-
     string role        = "Developer";
     string editor      = "VS Code & Visual Studio";
     string os          = "Windows";
@@ -80,21 +66,6 @@ public:
     string learning    = "Advanced Development";
     string status      = "Always building something";
 
-    vector<string> languages =
-    {
-        "C++",
-        "C#",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    };
-
-    vector<string> mindset =
-    {
-        "Build",
-        "Learn",
-        "Improve",
-        "Repeat"
-    };
-
+    vector<string> languages = { "C++", "C#", "JavaScript", "HTML", "CSS" };
+    vector<string> mindset   = { "Build", "Learn", "Improve", "Repeat" };
 };
