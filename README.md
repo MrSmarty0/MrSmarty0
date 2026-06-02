@@ -70,19 +70,12 @@
 <!--                   🎪 ANIMATED TECH STACK              -->
 <!-- ===================================================== -->
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,nodejs,python,git,github,vscode,visualstudio,stackoverflow,md" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="60" />
-</p>
 
 ---
 
@@ -90,7 +83,7 @@
 <!--              📊 ANIMATED STATS SECTION                -->
 <!-- ===================================================== -->
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrSmarty0&show_icons=true&theme=radical&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true&ring_color=38BDF8&include_all_commits=true&count_private=true" width="48%" />
@@ -102,39 +95,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MrSmarty0&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="48%" />
 </p>
 
----
 
 <!-- ===================================================== -->
 <!--              🎨 ANIMATED ACTIVITY GRAPH               -->
 <!-- ===================================================== -->
 
-## 📅 Coding Activity
+## Coding Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSmarty0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=38BDF8&line=38BDF8&point=38BDF8&custom_title=✨%20My%20Coding%20Journey%20✨&radius=10" width="95%" />
 </p>
 
----
 
-<!-- ===================================================== -->
-<!--              🐍 ANIMATED SNAKE CONTRIBUTIONS          -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrSmarty0/MrSmarty0/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrSmarty0/MrSmarty0/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MrSmarty0/MrSmarty0/output/github-snake.svg" />
-  </picture>
-</p>
-
----
 
 <!-- ===================================================== -->
 <!--              🏆 WORKING ACHIEVEMENTS                  -->
 <!-- ===================================================== -->
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSmarty0&theme=radical" width="95%" />
@@ -150,7 +128,7 @@
 <!--              🎵 WORKING MUSIC SECTION                 -->
 <!-- ===================================================== -->
 
-## 🎵 Coding Soundtrack
+## Coding Soundtrack
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=🎧+Code+to+the+rhythm;🎸+Music+fuels+the+code;🚀+Building+with+beats" />
@@ -178,7 +156,7 @@
 <!--              💬 WORKING QUOTE SECTION                 -->
 <!-- ===================================================== -->
 
-## ✍️ Dev Quote of the Day
+## Dev Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -190,7 +168,7 @@
 <!--              🃏 WORKING JOKE SECTION                  -->
 <!-- ===================================================== -->
 
-## 😄 Developer Humor
+## Developer Humor
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117&qColor=38BDF8&aColor=38BDF8" alt="Jokes Card" />
@@ -201,7 +179,7 @@
 <!--              🔥 RECENT ACTIVITY (WORKING)             -->
 <!-- ===================================================== -->
 
-## 📡 Recent GitHub Activity
+## Recent GitHub Activity
 
 <!-- This shows your actual recent activity -->
 <p align="center">
@@ -220,10 +198,10 @@
 <!--              📱 SOCIAL CONNECTIONS                   -->
 <!-- ===================================================== -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
-  <a href="https://discord.gg/MrSmarty0">
+  <a href="https://discord.gg/Armora">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
